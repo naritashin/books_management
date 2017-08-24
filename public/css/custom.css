@@ -1,0 +1,14 @@
+body {
+  background-color: #f8f8f8;
+}
+
+.cf::before,
+.cf::after {
+  clear: both;
+  display: block;
+  content: '';
+}
+
+.contents_wrapper {
+  text-align: center;
+}
